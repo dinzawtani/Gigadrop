@@ -1,8 +1,8 @@
-# Snapdrop 
+# xdrop 
 
-[Snapdrop](https://snapdrop.net): local file sharing in your browser - inspired by Apple's Airdrop.
+[xdrop](https://xdrop.net): local file sharing in your browser - inspired by Apple's Airdrop.
 
-#### Snapdrop (Version 2) is built with the following awesome technologies:
+#### xdrop (Version 2) is built with the following awesome technologies:
 * Vanilla HTML5 / ES6 / CSS3  
 * Progressive Web App
 * [WebRTC](http://webrtc.org/)
@@ -12,12 +12,6 @@
 
 ## Support the Snapdrop Community
 Snadprop is free. Still, we have to pay for the server. If you want to contribute, please use PayPal
-
-[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=74D2NE84JHCWG&source=url)
-
-or Bitcoin:
-
-[<img src="https://coins.github.io/thx/logo-color-large-pill-320px.png" alt="CoinThx" width="200"/>](https://coins.github.io/thx/#1K9zQ8f4iTyhKyHWmiDKt21cYX2QSDckWB?label=Snapdrop&message=Thanks!%20Your%20contribution%20helps%20to%20keep%20Snapdrop%20free%20for%20everybody!) 
 
 Thanks a lot for supporting free and open software!
 
@@ -46,10 +40,9 @@ I wanted to play around with Progressive Web Apps and then I got the idea of a l
 ShareDrop uses WebRTC only and isn't compatible with Safari browsers. Snapdrop uses a Websocket fallback and some hacks to make Snapdrop work due to the download restrictions on iDevices. 
 
 
-### Snapdrop is awesome! How can I support it? 
-* [File bugs, give feedback, submit suggestions](https://github.com/RobinLinus/snapdrop/issues)
-* Share Snapdrop on your social media.
-* [Buy me a cup of coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=74D2NE84JHCWG&source=url)
+### xdrop is awesome! How can I support it? 
+* [File bugs, give feedback, submit suggestions](https://github.com/dinzawtani/xdrop/issues)
+* Share xdrop on your social media.
 * Fix bugs and make a pull request. 
 * Do security analysis and suggestions
 
@@ -58,8 +51,8 @@ ShareDrop uses WebRTC only and isn't compatible with Safari browsers. Snapdrop u
 
 Clone the repository:
 ```
-    git clone https://github.com/RobinLinus/snapdrop.git
-    cd snapdrop
+    git clone https://github.com/dinzawtani/xdrop.git
+    cd xdrop
     docker-compose up -d
 ```
 
