@@ -26,5 +26,10 @@ Yes. Your files are sent using WebRTC, which encrypts them on transit.
 * Fix bugs and make a pull request. 
 * Do security analysis and suggestions
 
+'''
+    git clone https://github.com/dinzawtani/Gigadrop.git
+    cd Gigadrop
+    docker-compose up -d
+'''
 
 
