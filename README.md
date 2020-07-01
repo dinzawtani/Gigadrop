@@ -1,6 +1,6 @@
 # Gigadrop 
 
-[xdrop](https://Gigadrop.net): local file sharing in your browser - inspired by Apple's Airdrop.
+[Gigadrop](https://Gigadrop.net): local file sharing in your browser - inspired by Apple's Airdrop.
 
 #### Gigadrop (Version 2) is built with the following awesome technologies:
 * Vanilla HTML5 / ES6 / CSS3  
